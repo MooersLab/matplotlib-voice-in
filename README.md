@@ -20,7 +20,7 @@
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.0 |   Added badges, funding, and update table.                                                                                                 | 2024 May 29         |
-| Version 0.0 |   Added usage to README.md                                                                                                                 | 2024 August 8         |
+| Version 0.1 |   Added usage to README.md                                                                                                                 | 2024 August 8         |
 
 ## Sources of funding
 
